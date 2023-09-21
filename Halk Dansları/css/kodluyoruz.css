@@ -1,0 +1,46 @@
+h1{
+    color: blue;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: rgb(246, 92, 202);
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+#metniOrtala {
+    text-align: center; /* Metni yatayda ortalar */
+    display: flex;
+    justify-content: center; /*Metni dikeyde ortalar*/
+    align-items: center;
+  }
+
+p {
+    color: black;
+    font-size: 20px;
+}
+
+h3 {
+    color: darkcyan;
+    font-size: 25px;
+}
+body {
+    background-color: rgb(248, 233, 209);
+}
+h4 {
+    color: darkcyan; 
+    font-size: 25px;
+}
+
+address {
+    color: black;
+    font-size: 20px;
+}
+
+.ana-sayfa-listesi {
+    list-style-position: inside;
+}
+
+
